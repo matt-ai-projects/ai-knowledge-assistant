@@ -1,0 +1,19 @@
+# Secret keys — NEVER upload these
+.env
+
+# Virtual environment — too large to upload
+.venv/
+
+# ChromaDB database files
+chroma_db/
+
+# Mac junk files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Uploaded documents (user data)
+docs/uploads/
