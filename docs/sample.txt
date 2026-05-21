@@ -1,0 +1,23 @@
+ACME Corp Product Manual
+
+Chapter 1: Getting Started
+The ACME X200 is a cloud-based project management tool designed for enterprise teams.
+To get started, visit app.acme.com and create an account using your company email address.
+Once logged in, you will be prompted to create your first workspace.
+
+Chapter 2: User Roles
+There are three user roles in ACME X200: Admin, Manager, and Viewer.
+Admins can invite users, manage billing, and configure integrations.
+Managers can create projects, assign tasks, and view reports.
+Viewers can only read project data and cannot make changes.
+
+Chapter 3: Integrations
+ACME X200 integrates with Slack, Microsoft Teams, and Google Workspace.
+To enable Slack notifications, go to Settings, then Integrations, then click Connect Slack.
+All integration credentials are encrypted and stored securely.
+
+Chapter 4: Pricing
+ACME X200 offers three pricing tiers: Starter, Professional, and Enterprise.
+The Starter plan is free for up to 5 users.
+The Professional plan costs $12 per user per month and includes advanced reporting.
+The Enterprise plan includes custom pricing, SSO, and dedicated support.
