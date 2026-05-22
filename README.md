@@ -36,6 +36,11 @@ User Question → Embedder → Vector Search → LLM → Answer
 - 📚 Shows source passages used to generate each answer
 - 🔒 Answers only from your documents — no hallucination
 
+## Live Demo
+
+🚀 **[Try it live here](https://matt-ai-knowledge-assistant.streamlit.app)**
+
+Upload a document and start asking questions instantly — no setup required.
 ## Getting Started
 
 ### Prerequisites
